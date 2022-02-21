@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FgrReloaded?tab=repositories](https://github.com/FgrReloaded?tab=repositories)
 
-- 📝 I regularly write articles on [nothing(I don't have time for this)](nothing(I don't have time for this))
+- 📝 I regularly write articles on nothing(I don't have time for this)
 
 - 💬 Ask me about **Javascripts, nodejs, reactjs, nextjs and some python too.**
 
 - 📫 How to reach me **fgrreloaded14@gmail.com**
 
-- 📄 Know about my experiences [resume still creating...](resume still creating...)
+- 📄 Know about my experiences resume still creating...
 
 - ⚡ Fun fact **Fun is not a fact.**
 
