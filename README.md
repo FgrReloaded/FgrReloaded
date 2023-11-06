@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm FgrReloaded</h1>
-<h3 align="center">A passionate learner in a way to be a great web developer.</h3>
+<h3 align="center">A passionate learner in a way to be a <strong>Professional Full Stack Developer</strong></h3>
 
-- 🔭 I’m currently working on **my personal projects.**
+- 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Python and then Flask and Django**
+- 🌱 I’m currently learning **Typescript and PostgreSQL**
 
-- 👯 I’m looking to collaborate with **those who need my help.**
-
-- 🤝 I’m looking for help with **any work i can do.**
+- 👯 I’m looking to collaborate with **Teams to make projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FgrReloaded?tab=repositories](https://github.com/FgrReloaded?tab=repositories)
 
 - 📝 I regularly write articles on nothing(I don't have time for this)
 
-- 💬 Ask me about **Javascripts, nodejs, reactjs, nextjs and some python too.**
+- 💬 Ask me about **Javascripts, Nodejs, ReactJS, NextJs, Tailwind Css**
 
 - 📫 How to reach me **fgrreloaded14@gmail.com**
 
@@ -23,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nitish-kumar-33250b20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-kumar-33250b20b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nitish0140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-kumar-33250b20b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16613519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16613519" height="30" width="40" /></a>
 <a href="https://instagram.com/fgrreloaded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fgrreloaded" height="30" width="40" /></a>
 </p>
