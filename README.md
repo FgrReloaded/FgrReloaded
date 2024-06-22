@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Typescript and PostgreSQL**
+- 🌱 I’m currently learning **THREE.JS and SPLINE**
 
 - 👯 I’m looking to collaborate with **Teams to make projects**
 
