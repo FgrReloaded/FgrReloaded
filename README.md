@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FgrReloaded</h1>
+<h1 align="center">Hi 👋, I'm Nitish Singh</h1>
 <h3 align="center">A passionate learner in a way to be a <strong>Professional Full Stack Developer</strong></h3>
 
 - 🔭 I’m currently working on **Projects**
