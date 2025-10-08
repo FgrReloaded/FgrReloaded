@@ -31,6 +31,5 @@
 <a href="https://medium.com/@fgrreloaded" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fgrreloaded" height="30" width="40" /></a>
 </p>
 
-<img src="https://cg.nitishk.dev/api/share?username=fgrreloaded&year=2025&baseColor=F28C00&size=15&gap=2&shape=square&minOpacity=0.1&maxOpacity=1" alt="Contribution Graph" />
-
+<img src="https://cg.nitishk.dev/api/share?username=fgrreloaded&year=2025&baseColor=00B8D4&size=15&gap=2&shape=rounded&minOpacity=0.1&maxOpacity=1" alt="Contribution Graph" />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fgrreloaded&show_icons=true&locale=en&layout=compact" alt="fgrreloaded" /></p>
